@@ -1,0 +1,11 @@
+
+{
+    "go.gopath": "",
+    "go.goroot": "",
+    "go.useLanguageServer": true,
+    "gopls": {
+        "ui.diagnostic.analyses": {
+            "unusedparams": false
+        }
+    }
+}

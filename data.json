@@ -5,18 +5,8 @@
     "email": "vasya@mail.ru"
   },
   {
-    "id": 2, 
+    "id": 2,
     "name": "Петя",
     "email": "petya@mail.ru"
-  },
-{
-    "go.gopath": "",
-    "go.goroot": "",
-    "go.useLanguageServer": true,
-    "gopls": {
-        "ui.diagnostic.analyses": {
-            "unusedparams": false
-        }
-    }
-}
+  }
 ]
